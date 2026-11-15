@@ -1,0 +1,286 @@
+{
+  "generatedAt": "2026-11-15T10:21:52.642Z",
+  "node": "v25.2.1",
+  "platform": "darwin",
+  "architecture": "arm64",
+  "measurements": [
+    {
+      "difficulty": 1,
+      "run": 1,
+      "durationMs": 0.05716700000000685,
+      "attempts": 34
+    },
+    {
+      "difficulty": 2,
+      "run": 1,
+      "durationMs": 0.28504200000000424,
+      "attempts": 126
+    },
+    {
+      "difficulty": 3,
+      "run": 1,
+      "durationMs": 13.45233300000001,
+      "attempts": 6246
+    },
+    {
+      "difficulty": 4,
+      "run": 1,
+      "durationMs": 17.419833999999994,
+      "attempts": 12036
+    },
+    {
+      "difficulty": 1,
+      "run": 2,
+      "durationMs": 0.01854100000001324,
+      "attempts": 13
+    },
+    {
+      "difficulty": 2,
+      "run": 2,
+      "durationMs": 0.14537500000000136,
+      "attempts": 101
+    },
+    {
+      "difficulty": 3,
+      "run": 2,
+      "durationMs": 1.323750000000004,
+      "attempts": 1173
+    },
+    {
+      "difficulty": 4,
+      "run": 2,
+      "durationMs": 118.075042,
+      "attempts": 91185
+    },
+    {
+      "difficulty": 1,
+      "run": 3,
+      "durationMs": 0.0564589999999896,
+      "attempts": 49
+    },
+    {
+      "difficulty": 2,
+      "run": 3,
+      "durationMs": 0.4863330000000019,
+      "attempts": 228
+    },
+    {
+      "difficulty": 3,
+      "run": 3,
+      "durationMs": 8.04812499999997,
+      "attempts": 6368
+    },
+    {
+      "difficulty": 4,
+      "run": 3,
+      "durationMs": 274.50649999999996,
+      "attempts": 211519
+    },
+    {
+      "difficulty": 1,
+      "run": 4,
+      "durationMs": 0.006374999999934516,
+      "attempts": 2
+    },
+    {
+      "difficulty": 2,
+      "run": 4,
+      "durationMs": 0.013874999999984539,
+      "attempts": 9
+    },
+    {
+      "difficulty": 3,
+      "run": 4,
+      "durationMs": 3.008291999999983,
+      "attempts": 2377
+    },
+    {
+      "difficulty": 4,
+      "run": 4,
+      "durationMs": 43.023000000000025,
+      "attempts": 34594
+    },
+    {
+      "difficulty": 1,
+      "run": 5,
+      "durationMs": 0.008167000000071312,
+      "attempts": 4
+    },
+    {
+      "difficulty": 2,
+      "run": 5,
+      "durationMs": 0.08125000000006821,
+      "attempts": 56
+    },
+    {
+      "difficulty": 3,
+      "run": 5,
+      "durationMs": 14.021416999999929,
+      "attempts": 11206
+    },
+    {
+      "difficulty": 4,
+      "run": 5,
+      "durationMs": 260.64175,
+      "attempts": 206723
+    },
+    {
+      "difficulty": 1,
+      "run": 6,
+      "durationMs": 0.03083399999991343,
+      "attempts": 25
+    },
+    {
+      "difficulty": 2,
+      "run": 6,
+      "durationMs": 0.1820829999999205,
+      "attempts": 133
+    },
+    {
+      "difficulty": 3,
+      "run": 6,
+      "durationMs": 19.115666000000033,
+      "attempts": 15088
+    },
+    {
+      "difficulty": 4,
+      "run": 6,
+      "durationMs": 134.0815,
+      "attempts": 107882
+    },
+    {
+      "difficulty": 1,
+      "run": 7,
+      "durationMs": 0.04266600000005383,
+      "attempts": 29
+    },
+    {
+      "difficulty": 2,
+      "run": 7,
+      "durationMs": 0.24033300000007785,
+      "attempts": 192
+    },
+    {
+      "difficulty": 3,
+      "run": 7,
+      "durationMs": 1.1392079999999396,
+      "attempts": 822
+    },
+    {
+      "difficulty": 4,
+      "run": 7,
+      "durationMs": 57.04566699999998,
+      "attempts": 45377
+    },
+    {
+      "difficulty": 1,
+      "run": 8,
+      "durationMs": 0.007916999999906693,
+      "attempts": 6
+    },
+    {
+      "difficulty": 2,
+      "run": 8,
+      "durationMs": 0.4926669999999831,
+      "attempts": 210
+    },
+    {
+      "difficulty": 3,
+      "run": 8,
+      "durationMs": 4.9909999999999854,
+      "attempts": 4130
+    },
+    {
+      "difficulty": 4,
+      "run": 8,
+      "durationMs": 44.37608399999999,
+      "attempts": 35497
+    },
+    {
+      "difficulty": 1,
+      "run": 9,
+      "durationMs": 0.03245799999990595,
+      "attempts": 29
+    },
+    {
+      "difficulty": 2,
+      "run": 9,
+      "durationMs": 0.3444170000000213,
+      "attempts": 252
+    },
+    {
+      "difficulty": 3,
+      "run": 9,
+      "durationMs": 5.976000000000113,
+      "attempts": 4705
+    },
+    {
+      "difficulty": 4,
+      "run": 9,
+      "durationMs": 204.50487500000008,
+      "attempts": 162091
+    },
+    {
+      "difficulty": 1,
+      "run": 10,
+      "durationMs": 0.02775000000019645,
+      "attempts": 24
+    },
+    {
+      "difficulty": 2,
+      "run": 10,
+      "durationMs": 0.2988749999999527,
+      "attempts": 229
+    },
+    {
+      "difficulty": 3,
+      "run": 10,
+      "durationMs": 12.903749999999945,
+      "attempts": 10571
+    },
+    {
+      "difficulty": 4,
+      "run": 10,
+      "durationMs": 63.22550000000001,
+      "attempts": 50842
+    }
+  ],
+  "summary": [
+    {
+      "difficulty": 1,
+      "runs": 10,
+      "meanMs": 0.028833399999999187,
+      "standardDeviationMs": 0.01900447454447234,
+      "minimumMs": 0.006374999999934516,
+      "maximumMs": 0.05716700000000685,
+      "meanAttempts": 21.5
+    },
+    {
+      "difficulty": 2,
+      "runs": 10,
+      "meanMs": 0.25702500000000156,
+      "standardDeviationMs": 0.15869694015603222,
+      "minimumMs": 0.013874999999984539,
+      "maximumMs": 0.4926669999999831,
+      "meanAttempts": 153.6
+    },
+    {
+      "difficulty": 3,
+      "runs": 10,
+      "meanMs": 8.39795409999999,
+      "standardDeviationMs": 6.161884817727076,
+      "minimumMs": 1.1392079999999396,
+      "maximumMs": 19.115666000000033,
+      "meanAttempts": 6268.6
+    },
+    {
+      "difficulty": 4,
+      "runs": 10,
+      "meanMs": 121.6899752,
+      "standardDeviationMs": 94.46962226519123,
+      "minimumMs": 17.419833999999994,
+      "maximumMs": 274.50649999999996,
+      "meanAttempts": 95774.6
+    }
+  ]
+}
